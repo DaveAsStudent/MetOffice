@@ -2,6 +2,6 @@ package training.metofficeweather;
 
 public class Main {
     public static void main(String args[]) {
-        // Your code here!
+        System.out.printf("%s %s", "Goodbye", "World");
     }
 }	
